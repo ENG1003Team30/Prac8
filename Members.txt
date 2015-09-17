@@ -11,5 +11,5 @@ This is a test
 
 Terence Chay
 Hi My name is terence.
-Role of project: Assignment uploader
+Role of project: Team leader
 Preferred branch of engineering: chemical
