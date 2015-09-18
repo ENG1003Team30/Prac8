@@ -13,3 +13,8 @@ Terence Chay
 Hi My name is terence.
 Role of project: Team leader
 Preferred branch of engineering: chemical
+
+Victor Seaw
+Hi My name is Victor.
+Role of project: Assignment Uploader
+Preferred branch of engineering: Mechanical
